@@ -22,9 +22,10 @@ Elephant.io
 
 NOTICE
 ======
-As we are not using Elephant.io anymore at Wisembly, and not having the time to
-maintain this library, we are looking for maintainers. Please look at the dedicated
-issue #135 !
+Since Wisembly declared that they are no longer maintaining this project, I've
+decided to fork this project and continue it. I think the official repository is still
+wisembly/elephant.io. But, feel free to use this fork if you wish. If you found some bug,
+kindly raise an issue for that.
 
 Installation
 ============
@@ -32,7 +33,7 @@ We are suggesting you to use composer, with the following : `php composer.phar r
 
 Documentation
 =============
-The docs are not written yet, but you should check [the example directory](https://github.com/Wisembly/elephant.io/tree/master/example)
+The docs are not written yet, but you should check [the example directory](https://github.com/ghabxph/elephant.io/tree/master/example)
 to have a basic knownledge on how this library is meant to work.
 
 Special Thanks
