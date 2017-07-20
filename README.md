@@ -1,8 +1,8 @@
 Elephant.io
 ===========
-[![Build Status](https://travis-ci.org/Wisembly/elephant.io.svg?branch=master)](https://travis-ci.org/Wisembly/elephant.io)
-[![Latest Stable Version](https://poser.pugx.org/wisembly/elephant.io/v/stable.svg)](https://packagist.org/packages/wisembly/elephant.io)
-[![Total Downloads](https://poser.pugx.org/wisembly/elephant.io/downloads.svg)](https://packagist.org/packages/wisembly/elephant.io) 
+[![Build Status](https://travis-ci.org/ghabxph/elephant.io.svg?branch=master)](https://travis-ci.org/ghabxph/elephant.io)
+[![Latest Stable Version](https://poser.pugx.org/ghabxph/elephant.io/v/stable.svg)](https://packagist.org/packages/wisembly/elephant.io)
+[![Total Downloads](https://poser.pugx.org/ghabxph/elephant.io/downloads.svg)](https://packagist.org/packages/ghabxph/elephant.io) 
 [![License](https://poser.pugx.org/wisembly/elephant.io/license.svg)](https://packagist.org/packages/wisembly/elephant.io)
 
 ```
